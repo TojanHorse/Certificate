@@ -3,7 +3,7 @@ const participants = {
   volunteer: ["Aditya Uniyal",
   "Ayush Parandiyal",
   "Rithik Singhal",
-  "Sholk",
+  "Shlok Arora",
   "Prajakta Pokhriyal",
   "Varsha Bisht",
   "Charu",
@@ -11,8 +11,16 @@ const participants = {
   "Shobhit",
   "Honey",
   "Samayk",
-  "Akshat Maheshwari"],
-  organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth"]
+  "Akshat Maheshwari",
+"Devashish Singh",
+  "Anant Gupta",
+  "Ankur Verma",
+  "Astha Katiyar",
+  "Rahul Rawat",
+  "Vaishnavi Purohit",
+  "Ayushi Uniyal",
+  "Soumya"],
+  organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth","Utkarsh gaur",]
 };
 
 function checkAndDownload() {
