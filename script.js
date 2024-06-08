@@ -19,8 +19,9 @@ const participants = {
   "Rahul Rawat",
   "Vaishnavi Purohit",
   "Ayushi Uniyal",
-  "Soumya"],
-  organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth","Utkarsh gaur",]
+  "Soumya",
+"Vanshika Thapa"],
+  organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth Devli","Utkarsh gaur","Sumit Srivastav"]
 };
 
 function checkAndDownload() {
