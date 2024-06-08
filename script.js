@@ -20,7 +20,9 @@ const participants = {
   "Vaishnavi Purohit",
   "Ayushi Uniyal",
   "Soumya",
-"Vanshika Thapa"],
+"Vanshika Thapa",
+"Vansh Tomar",
+"Silky Saurabh"],
   organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth Devli","Utkarsh gaur","Sumit Srivastav"]
 };
 
