@@ -2,7 +2,7 @@
 const participants = {
   volunteer: ["Aditya Uniyal",
   "Ayush Parandiyal",
-  "Rithik Singhal",
+  "Ritik Singhal",
   "Shlok Arora",
   "Prajakta Pokhriyal",
   "Varsha Bisht",
@@ -22,7 +22,9 @@ const participants = {
   "Soumya",
 "Vanshika Thapa",
 "Vansh Tomar",
-"Silky Saurabh"],
+"Silky Saurabh",
+"Sidharth Kumar",
+"Abhijeet Narayan"],
   organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth Devli","Utkarsh gaur","Sumit Srivastav"]
 };
 
