@@ -24,7 +24,11 @@ const participants = {
 "Vansh Tomar",
 "Silky Saurabh",
 "Sidharth Kumar",
-"Abhijeet Narayan"],
+"Abhijeet Narayan",
+"Suhani Gupta",
+"Prashansha Panwar",
+"Abhilasha Verma","Priyanshi Joshi"
+],
   organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth Devli","Utkarsh gaur","Sumit Srivastav"]
 };
 
