@@ -29,7 +29,7 @@ const participants = {
 "Prashansha Panwar",
 "Abhilasha Verma","Priyanshi Joshi"
 ],
-  organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth Devli","Utkarsh gaur","Sumit Srivastav"]
+  organizer: ["Bobby Singh", "Rahul Bijalwan", "Sneha Payal","Shrishti Chauhan","Ayush Singh","Kritharth Devli","Utkarsh Gaur","Sumit Srivastav"]
 };
 
 function checkAndDownload() {
